@@ -1,0 +1,3 @@
+<nav>
+    @yield('breadcrumb')
+</nav>
